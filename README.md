@@ -15,21 +15,21 @@ ___
 ### My professional experience as Software Engineer 🙌
 
 - **[Sopra Steria](https://www.soprasteria.com/) / [Crédit Agricole](https://www.credit-agricole.fr/) (MDM)** | *Fullstack Developer*
-- <img width="1280" height="885" alt="image" src="https://github.com/user-attachments/assets/d3b6e4c6-ed70-49c1-b434-f3eafa4f6352" />
+- <img width="640" height="442" alt="image" src="https://github.com/user-attachments/assets/d3b6e4c6-ed70-49c1-b434-f3eafa4f6352" />
 
     - Managed a unique repository for tens of thousands of customer data to ensure non-redundancy.
     - Optimized XML architectures and Excel import/export algorithms (Java 11, Angular, TIBCO EBX).
     - **Impact:** 100+ tickets delivered, **3x faster execution** for contract exports.
 
 - **[Sopra Steria](https://www.soprasteria.com/) / [ESCOTA](https://www.vinci-autoroutes.com/fr/reseaux/escota/) (Vinci Autoroutes)** | *Fullstack Developer*
-- <img width="1280" height="356" alt="image" src="https://github.com/user-attachments/assets/09698bdd-0a1b-415f-9d29-2c36d78c54b2" />
+- <img width="640" height="178" alt="image" src="https://github.com/user-attachments/assets/09698bdd-0a1b-415f-9d29-2c36d78c54b2" />
 
     - Global overhaul of a 24/7 critical traffic management application for Southern France.
     - Implementation of WebSockets for real-time reactivity and SonarQube for code quality.
     - **Impact:** Automated information broadcasting (Radio 107.7) for real-time incident handling.
 
 - **[Sopra Steria](https://www.soprasteria.com/) / [BNP Paribas](https://group.bnpparibas/)** | *RPA Developer*
-- <img width="1254" height="351" alt="image" src="https://github.com/user-attachments/assets/bee135f1-3df3-4359-8c0f-dccbd709742e" />
+- <img width="627" height="175" alt="image" src="https://github.com/user-attachments/assets/bee135f1-3df3-4359-8c0f-dccbd709742e" />
 
     - Automated IT support data migration using **UiPath** for error ticket recovery.
     - **Impact:** Extracted **10,000+ critical entries** with 100% reliability, leading to an immediate contract offer.
