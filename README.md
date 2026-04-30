@@ -15,7 +15,7 @@ ___
 ### My professional experience as Software Engineer 🙌
 
 - **[Sopra Steria](https://www.soprasteria.com/) / [Crédit Agricole](https://www.credit-agricole.fr/) (MDM)** | *Fullstack Developer*
-  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dddf2b37-4252-42d3-bcea-70bd04dfe900" />
+  <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/dddf2b37-4252-42d3-bcea-70bd04dfe900" />
 
 
     - Managed a unique repository for tens of thousands of customer data to ensure non-redundancy.
